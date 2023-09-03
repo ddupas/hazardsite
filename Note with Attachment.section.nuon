@@ -6,11 +6,10 @@
 	Name : 'Note with Attachment'
 	Print : 'Note'
 	'Required Fields' : {
-		# implied id
 	}
 	'Optional Fields' : {
 		Note : string
-		Attachments : 'list of blobs'
+		Attachments : list<string>
 	}
 
 }

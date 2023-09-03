@@ -1,15 +1,17 @@
 # Basic Hazard Assessment
 # Editor: Any 
-{
+{	Type : 'Basic Hazard Assessment'
+	GUID : 1693691393
 	'Basic Header'  : {
 		'Assessment Date' : 1693691393
 		Worker : 'Darrell Dupas'
 		Job : 'Hazard Site'
 	}
 	'Note with Attachment' : {
-		Text : 
+		Note : 
 		'This is the first sample Hazard Assesment.
-		It was simply edited with a text editor, a form editor in the shell and web 
-		crud should be added'
+		It was simply edited with a text editor, a form editor in the shell and
+		web crud would be nice. There are no additional controls to improve
+		safety, but there are many qol details that could be pursued. 😊'
 	}
 }

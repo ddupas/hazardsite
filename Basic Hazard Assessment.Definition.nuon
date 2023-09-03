@@ -1,5 +1,6 @@
 {
 	Name : 'Basic Hazard Assessment'
+	
 	Sections : [ 'Basic Header', 'Note with Attachment' ] 
 
 	# because of pre compiled nature of nushell it is difficult to put
