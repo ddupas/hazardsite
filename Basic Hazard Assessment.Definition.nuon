@@ -1,0 +1,13 @@
+{
+	Name : 'Basic Hazard Assessment'
+	Sections : [ 'Basic Header', 'Note with Attachment' ] 
+
+	# because of pre compiled nature of nushell it is difficult to put
+	# code as a property value and execute it at runtime, even with nu -c
+	# with a print property that was a function but had problems
+	#
+	'Print Script' : 'Basic Hazard Assessment.Printer.nu'
+
+
+}
+

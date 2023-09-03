@@ -1,0 +1,13 @@
+{
+# Basic Header.section.nuon
+# Describes a Basic Header Section
+
+	Name : 'Basic Header'
+	'Print Name' : 'Hazard Assessment'
+	'Required Fields' : {
+		'Assessment Date' : date
+		Worker : string
+		Job : string
+	}
+
+}

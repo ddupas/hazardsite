@@ -1,0 +1,14 @@
+# Basic Hazard Assessment
+# Editor: Any 
+
+{
+		'Basic Header'  : {
+			'Assessment Date' : 1693691393
+			Worker : 'Darrell Dupas'
+			Job : 'Hazard Site'
+		}
+		'Note with Attachment' : {
+			Text : 
+"This is a section that has one field named Text"
+		}
+}

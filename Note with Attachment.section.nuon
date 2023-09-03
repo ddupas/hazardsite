@@ -1,0 +1,16 @@
+{
+# Note with Attachment.section.nuon
+# Describes a section that only has one field that is a Note
+# There is also an attachment field to attach files
+
+	Name : 'Note with Attachment'
+	Print : 'Note'
+	'Required Fields' : {
+		# implied id
+	}
+	'Optional Fields' : {
+		Note : string
+		Attachments : 'list of blobs'
+	}
+
+}
