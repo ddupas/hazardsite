@@ -1,9 +1,8 @@
 # Basic Hazard Assessment
 # Editor: Any 
-{	Type : 'Basic Hazard Assessment'
-	GUID : 1693691393
+{	
 	'Basic Header'  : {
-		'Assessment Date' : 1693691393
+		'Assessment Date' : 'Sun, 03 Sep 2023 14:33:53 -0600'
 		Worker : 'Darrell Dupas'
 		Job : 'Hazard Site'
 	}
